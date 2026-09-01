@@ -50,7 +50,7 @@ a:focus {
 .gallery-link,
 .gallery-image {
   cursor:
-    url("hand-icon.svg") 35 37,
+    url("hand-icon.svg") 0 0,
     pointer;
 }
 
